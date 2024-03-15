@@ -12,7 +12,7 @@ This daily planner application provides a convenient way to create and manage yo
 
 ## Usage
 
-1. **Opening the Planner**: Open the planner to start organizing your day using this link :
+1. **Opening the Planner**: Open the planner to start organizing your day using this link : https://chadoyek.github.io/Work-Day-Scheduler-Challenge-5/
 2. **Viewing Time Blocks**: Scroll down to view time blocks for the day, spanning from 9am to 5pm.
 3. **Color Coding**: Time blocks are color-coded:
    - Past: Grey
