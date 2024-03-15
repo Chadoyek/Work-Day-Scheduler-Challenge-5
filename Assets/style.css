@@ -16,6 +16,10 @@ textarea {
   white-space: pre-wrap;
 }
 
+
+header {
+  text-align: center;
+}
 .time-block {
   border-radius: 15px;
 }
@@ -58,11 +62,6 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-.notification {
-  display: none;
-  text-align: center;
-  
-}
 
 #currentDay {
   font-weight: bold;
